@@ -6,7 +6,7 @@ const corsHeaders = {
     "authorization, x-client-info, apikey, content-type, x-supabase-client-platform, x-supabase-client-platform-version, x-supabase-client-runtime, x-supabase-client-runtime-version",
 };
 
-const SENDER_DOMAIN = "notify.castemi.com";
+const SENDER_DOMAIN = "notificaciones.castemi.com";
 
 /** Minimum seconds between consecutive immediate campaigns */
 const CAMPAIGN_RATE_LIMIT_SECONDS = 60;
